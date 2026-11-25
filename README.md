@@ -1,2 +1,2 @@
-# game-life-
+# game-life
 игра жизнь 
